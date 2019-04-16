@@ -4,7 +4,7 @@
 
 办事原则
 ---
-![社会主义核心价值观](positive-energy/24bOOOPIC6d_1024.jpg)
+![社会主义核心价值观](img-repo/others/he-xin-jia-zhi-guan.jpg)
 
 创建目的
 ---
@@ -55,9 +55,9 @@
 
 团贷网基本信息
 ---
-![概况](td-basic/概况.png)
-![出借人信息](td-basic/出借人信息.png)
-![借款人信息](td-basic/借款人信息.png)
+![概况](img-repo/td-basic/概况.png)
+![出借人信息](img-repo/td-basic/出借人信息.png)
+![借款人信息](img-repo/td-basic/借款人信息.png)
 
 消息出处
 ---
